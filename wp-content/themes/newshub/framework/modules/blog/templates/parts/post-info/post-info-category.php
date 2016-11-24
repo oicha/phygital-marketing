@@ -1,0 +1,1 @@
+<div class="mkd-post-info-category"><?php the_category('<span class="mkd-comma">, </span>'); ?></div>

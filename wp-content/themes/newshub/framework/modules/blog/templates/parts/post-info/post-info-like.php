@@ -1,0 +1,1 @@
+<div class="mkd-blog-like"><?php if( function_exists('newshub_mikado_get_like') ) newshub_mikado_get_like(); ?> <?php echo esc_html__('likes','newshub')?></div>
