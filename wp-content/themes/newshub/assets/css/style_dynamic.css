@@ -18,7 +18,7 @@ a:not(.mkd-pt-title-link):hover, h1 a:not(.mkd-pt-title-link):hover, h2 a:not(.m
 
 .mkd-content .mkd-content-inner > .mkd-full-width > .mkd-full-width-inner { padding-top: 0px;}
 
-.mkd-content .mkd-content-inner > .mkd-container > .mkd-container-inner { padding-top: 30px;}
+.mkd-content .mkd-content-inner > .mkd-container > .mkd-container-inner { padding-top: 1px;}
 
 .mkd-content { padding-bottom: 58px;}
 
