@@ -32,9 +32,9 @@ h5 { font-size: 18px;line-height: 25px;text-transform: uppercase;font-weight: 70
 
 h6 { font-size: 15px;line-height: 23px;text-transform: capitalize;font-style: normal;font-weight: 500;}
 
-p { font-family: Open Sans;font-size: 14px;}
+p { font-family: "Helvetica Neue", Helvetica,"游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "Roboto", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;font-size: 16px;}
 
-body { font-size: 14px;}
+body { font-size: 16px;}
 
 aside.mkd-sidebar { text-align: left;}
 
