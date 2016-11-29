@@ -2523,7 +2523,7 @@ footer .mkd-footer-heading-holder {
 footer .mkd-footer-top-holder {
 	position: relative;
 	display: block;
-	background-color: #ffffff;
+	background-color: #A18446;
 	color: #7a7979;
 	font-size: 13px
 }
@@ -2559,7 +2559,7 @@ footer .mkd-footer-bottom-holder {
 	position: relative;
 	display: table;
 	width: 100%;
-	background-color: #2e2e2e;
+	background-color: #ffffff;
 	font-size: 11px;
 	font-weight: 400;
 	height: 38px;
