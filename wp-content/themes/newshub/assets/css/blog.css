@@ -414,6 +414,8 @@ html[xmlns] .mkd-blog-holder.mkd-blog-type-standard article .mkd-pg-slider, html
 .mkd-blog-holder.mkd-blog-type-one-big-two-small .mkd-bnl-holder:not(:last-child), .mkd-blog-holder.mkd-blog-type-masonry article:not(:last-child),
 .mkd-blog-holder.mkd-blog-type-masonry .mkd-bnl-holder:not(:last-child) {
   margin-bottom: 30px;
+  padding-bottom: 30px;
+   border-bottom: 5px solid #ccc;
 }
 
 /* these are values from newshub1 */
