@@ -1,6 +1,6 @@
 <?php ?>
-この記事への
-   <div style="float: left"><a class="cbtn" href="#">ご意見・ご感想</a></div>
-   <div style="text-align: right"><a class="cbtn" href="#">サービスお問い合わせ</a></div>
-
+<div class="blockw"><h4 style="line-height: 0px;">お問い合わせ</h4><br>
+<a class="button" href="https://www.imjp.co.jp/contact/other/" target="_blank">ご意見・
+ご感想</a>
+<a class="button" href="https://www.imjp.co.jp/contact/service/" target="_blank">お仕事のご相談</a></div>
 <?php ?>
