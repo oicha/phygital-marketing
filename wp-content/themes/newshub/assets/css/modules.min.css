@@ -4945,7 +4945,7 @@ body:not(.single-post) .mkd-social-share-holder.mkd-list li:hover.mkd-vk-share {
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-post-info-category {
 	position: relative;
 	float: none;
-	color: #959494;
+	color: #333;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: inherit;
@@ -4961,7 +4961,7 @@ body:not(.single-post) .mkd-social-share-holder.mkd-list li:hover.mkd-vk-share {
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-pt-meta-section>div {
 	position: relative;
 	float: left;
-	color: #959494;
+	color: #333;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: inherit;
