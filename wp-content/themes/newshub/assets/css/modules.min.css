@@ -3726,7 +3726,7 @@ color:#7a7979
 	margin-bottom: -6px
 }
 .wpb_widgetised_column .widget.widget_archive ul li a, .wpb_widgetised_column .widget.widget_categories ul li a, .wpb_widgetised_column .widget.widget_meta ul li a, .wpb_widgetised_column .widget.widget_nav_menu ul li a, .wpb_widgetised_column .widget.widget_pages ul li a, aside.mkd-sidebar .widget.widget_archive ul li a, aside.mkd-sidebar .widget.widget_categories ul li a, aside.mkd-sidebar .widget.widget_meta ul li a, aside.mkd-sidebar .widget.widget_nav_menu ul li a, aside.mkd-sidebar .widget.widget_pages ul li a {
-	font-size: 14px;
+	font-size: 15px;
 	color: #4b4a4a;
 	line-height: 43px;
 	position: relative;
@@ -7600,7 +7600,7 @@ color:#7a7979
 	display: flex
 }
 .mkd-side-menu .widget.widget_archive ul li a, .mkd-side-menu .widget.widget_categories ul li a, .mkd-side-menu .widget.widget_meta ul li a, .mkd-side-menu .widget.widget_nav_menu ul li a, .mkd-side-menu .widget.widget_pages ul li a {
-	font-size: 14px;
+	font-size: 15px;
 	color: #fff;
 	line-height: 39px;
 	position: relative;
@@ -7622,7 +7622,7 @@ color:#7a7979
 	content: "\f30f";
 	speak: none;
 	color: #fff;
-	font-size: 13px;
+	font-size: 15px;
 	text-transform: none;
 	text-rendering: auto;
 	line-height: 13px;
