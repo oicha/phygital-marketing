@@ -2607,14 +2607,14 @@ footer.mkd-disable-footer {
 }
 footer .widget {
 	margin: 0;
-	color: #7a7979;
+	color: #333333;
 	box-sizing: border-box
 }
 footer .widget:not(:last-child) {
 	margin-bottom: 20px
 }
 footer .widget a {
-	color: #989898;
+	color: #ffffff;
 	-webkit-transition: color .3s ease-in-out;
 	-moz-transition: color .3s ease-in-out;
 	transition: color .3s ease-in-out
@@ -2628,7 +2628,7 @@ footer .widget a:hover {
 	color: #fff
 }
 footer .widget h1, footer .widget h2, footer .widget h3, footer .widget h4, footer .widget h5, footer .widget h6 {
-	color: #989898
+	color: #fff
 }
 footer .widget ul {
 	list-style: none;
