@@ -2234,7 +2234,7 @@ footer .mkd-footer-bottom-holder, footer .mkd-footer-bottom-holder .mkd-column-i
 	z-index: 101
 }
 .mkd-mobile-header .mkd-mobile-header-inner {
-	background-color: #212121;
+	background-color: #fff;
 	border-bottom: 1px solid #212121;
 	box-sizing: border-box;
 	height: 60px;
@@ -2267,7 +2267,7 @@ footer .mkd-footer-bottom-holder, footer .mkd-footer-bottom-holder .mkd-column-i
 	overflow: hidden
 }
 .mkd-mobile-header .mkd-mobile-menu-opener .mkd-mobile-opener-icon-holder i {
-	color: #fff;
+	color: #000;
 	font-size: 30px
 }
 .mkd-sticky-up-mobile-header .mkd-animate-mobile-header .mkd-mobile-header-inner {
@@ -5031,8 +5031,10 @@ body:not(.single-post) .mkd-social-share-holder.mkd-list li:hover.mkd-vk-share {
 	content: "\f06e"
 }
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-post-excerpt {
-	margin-top: 0;
-	margin-bottom: 0
+    margin-top: 15px;
+    margin-bottom: 0;
+    line-height: 1.7;
+    font-size: 17px;
 }
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-blog-share {
 	position: absolute;
@@ -8095,3 +8097,4 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 .sns{	margin-bottom:30px;}
 
 .mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
+.
