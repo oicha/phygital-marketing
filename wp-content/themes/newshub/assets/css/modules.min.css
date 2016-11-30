@@ -1492,7 +1492,8 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3000000', end
 	font-weight: 600
 }
 .mkd-main-menu>ul>li>a {
-	font-size: 14px;
+	font-size: 15px;
+	font-weight:bold !important;
 	line-height: 16px;
 	font-weight: 600;
 	color: #fff;
