@@ -58,7 +58,7 @@ aside.mkd-sidebar { text-align: left;}
 aside.mkd-sidebar .widget.widget_categories ul li a,
             .wpb_widgetised_column .widget.widget_categories ul li a,
             footer .widget.widget_categories ul li a,
-            .mkd-side-menu .widget.widget_categories ul li a { font-family: Raleway;font-size: 12px;line-height: 18px;text-transform: uppercase;font-weight: 500;}
+            .mkd-side-menu .widget.widget_categories ul li a { font-family: Raleway;font-size: 15px;line-height: 18px;text-transform: uppercase;font-weight: 500;}
 
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner,
             .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner ,
@@ -110,4 +110,5 @@ footer .widget.widget_text { margin-bottom: 0px;}
 .mkd-side-menu .widget.widget_text { margin-bottom: 0px;}
 .mkd-post-info-category a {  color:#333; font-size:14px;}
 .mkd-post-info-category {padding-top:0px !!important; padding-bottom: 5px !important;}
+
 
