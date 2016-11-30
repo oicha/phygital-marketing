@@ -5,7 +5,7 @@
             <div class="mkd-grid">
                 <div class="mkd-vertical-align-containers">
                     <div class="mkd-position-left">
-                        <div class="mkd-position-left-inner">
+                        <div class="mkd-position-left-inner" style="width:900px;">
                             <?php if (!$hide_logo) {
                                 newshub_mikado_get_logo();
                             } ?>

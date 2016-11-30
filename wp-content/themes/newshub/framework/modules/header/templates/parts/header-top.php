@@ -9,7 +9,7 @@
 		<?php do_action( 'newshub_mikado_after_header_top_html_open' ); ?>
         <div class="mkd-vertical-align-containers mkd-<?php echo esc_attr($column_widths); ?>">
             <div class="mkd-position-left">
-                <div class="mkd-position-left-inner">
+                <div class="mkd-position-left-inner" style="width:900px;">
                     <?php if(is_active_sidebar('mkd-top-bar-left')) : ?>
                         <?php dynamic_sidebar('mkd-top-bar-left'); ?>
                     <?php endif; ?>
