@@ -1124,6 +1124,8 @@ if (!function_exists('newshub_mikado_get_single_html')) {
 
         newshub_mikado_get_module_template_part('templates/single/post-formats/' . $post_format, 'blog', '', $params);
 
+		newshub_mikado_get_module_template_part('templates/single/parts/cbtn', 'blog');
+		
         newshub_mikado_get_module_template_part('templates/single/parts/share', 'blog', '', array('type' => 'list'));
 
         newshub_mikado_get_module_template_part('templates/single/parts/ratings', 'blog', '', $params);

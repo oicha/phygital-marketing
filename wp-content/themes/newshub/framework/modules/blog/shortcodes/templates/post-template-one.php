@@ -37,13 +37,6 @@
         <a itemprop="url" class="mkd-pt-title-link" href="<?php echo esc_url(get_permalink()); ?>" target="_self"><?php echo newshub_mikado_get_title_substring(get_the_title(), $title_length) ?></a>
     </<?php echo esc_html($title_tag) ?>>
 
-    <?php if ($display_title_separator == 'yes') { ?>
-        <div class="mkd-pt-title-separator-holder">
-            <div class="mkd-pt-title-separator">
-            </div>
-        </div>
-    <?php } ?>
-
     <?php if ($display_excerpt == 'yes') { ?>
         <div itemprop="description" class="mkd-pt-excerpt" <?php newshub_mikado_inline_style($excerpt_style); ?>>
             <?php newshub_mikado_excerpt($excerpt_length); ?>
@@ -82,11 +75,6 @@
         </div><!-- .mkd-pt-meta-more-holder -->
     <?php } ?>
 
-    <?php if ($display_rating == 'yes') {
-        newshub_mikado_post_info_rating(array(
-            'rating' => $display_rating
-        ));
-    } ?>
-
+    
     </div><!-- .mkd-post-item-inner -->
 </section><!-- .mkd-post-item -->

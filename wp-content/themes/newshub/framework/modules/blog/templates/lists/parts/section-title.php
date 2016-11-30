@@ -1,6 +1,9 @@
-<div class="mkd-layout-title-holder"><div class="mkd-section-title-holder clearfix">
+            $category_title = $tax->name;
+            $title          = $category_title;
+              
+       <div class="mkd-layout-title-holder"><div class="mkd-section-title-holder clearfix">
         <h5 class="mkd-title-line-head">
-            <?php esc_html_e('最新投稿', 'newshub' ); ?>
+            <?php echo esc_html('get_the_category();の最新記事'); ?>
         </h5>
         <div class="mkd-title-line-body"></div>
     </div>
