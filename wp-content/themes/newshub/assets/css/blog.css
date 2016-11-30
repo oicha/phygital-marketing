@@ -806,6 +806,11 @@ html[xmlns] .mkd-blog-holder.mkd-blog-type-standard article .mkd-pg-slider, html
   margin: 4px 0 0;
 }
 
+.mkd-author-name a{
+    font-weight: bold;
+    font-size: 20px;	
+}
+
 .mkd-author-description .mkd-author-email {
   display: block;
   margin: 1px 0 0;
