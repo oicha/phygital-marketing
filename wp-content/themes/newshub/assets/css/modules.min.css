@@ -1492,7 +1492,8 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b3000000', end
 	font-weight: 600
 }
 .mkd-main-menu>ul>li>a {
-	font-size: 14px;
+	font-size: 15px;
+	font-weight:bold !important;
 	line-height: 16px;
 	font-weight: 600;
 	color: #fff;
@@ -2965,7 +2966,7 @@ footer .widget.widget_tag_cloud a {
 	margin: 0 1px 4px 0;
 	font-family: inherit;
 	color: #989898;
-	font-size: 15px!important;
+	font-size: 10px!important;
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -3726,7 +3727,7 @@ color:#7a7979
 	margin-bottom: -6px
 }
 .wpb_widgetised_column .widget.widget_archive ul li a, .wpb_widgetised_column .widget.widget_categories ul li a, .wpb_widgetised_column .widget.widget_meta ul li a, .wpb_widgetised_column .widget.widget_nav_menu ul li a, .wpb_widgetised_column .widget.widget_pages ul li a, aside.mkd-sidebar .widget.widget_archive ul li a, aside.mkd-sidebar .widget.widget_categories ul li a, aside.mkd-sidebar .widget.widget_meta ul li a, aside.mkd-sidebar .widget.widget_nav_menu ul li a, aside.mkd-sidebar .widget.widget_pages ul li a {
-	font-size: 14px;
+	font-size: 15px;
 	color: #4b4a4a;
 	line-height: 43px;
 	position: relative;
@@ -3831,7 +3832,7 @@ color:#7a7979
 	margin: 0 1px 4px 0;
 	font-family: inherit;
 	color: #212121;
-	font-size: 10px!important;
+	font-size: 15px!important;
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -4944,7 +4945,7 @@ body:not(.single-post) .mkd-social-share-holder.mkd-list li:hover.mkd-vk-share {
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-post-info-category {
 	position: relative;
 	float: none;
-	color: #959494;
+	color: #333;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: inherit;
@@ -4960,7 +4961,7 @@ body:not(.single-post) .mkd-social-share-holder.mkd-list li:hover.mkd-vk-share {
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-pt-meta-section>div {
 	position: relative;
 	float: left;
-	color: #959494;
+	color: #333;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: inherit;
@@ -7600,7 +7601,7 @@ color:#7a7979
 	display: flex
 }
 .mkd-side-menu .widget.widget_archive ul li a, .mkd-side-menu .widget.widget_categories ul li a, .mkd-side-menu .widget.widget_meta ul li a, .mkd-side-menu .widget.widget_nav_menu ul li a, .mkd-side-menu .widget.widget_pages ul li a {
-	font-size: 14px;
+	font-size: 15px;
 	color: #fff;
 	line-height: 39px;
 	position: relative;
@@ -7622,7 +7623,7 @@ color:#7a7979
 	content: "\f30f";
 	speak: none;
 	color: #fff;
-	font-size: 13px;
+	font-size: 15px;
 	text-transform: none;
 	text-rendering: auto;
 	line-height: 13px;
