@@ -2146,7 +2146,7 @@ color:#7a7979
 
 @media only screen and (min-width:1024px) and (max-width:1280px) {
 .mkd-header-type4 .mkd-logo-area .mkd-position-left {
-	max-width: 45%
+	max-width: 80%
 }
 .mkd-header-type4 .mkd-logo-area .mkd-position-right {
 	display: table;
@@ -8097,5 +8097,22 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 
 .sns{	margin-bottom:30px;}
 
+
 .mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
-.
+
+@media only screen and (min-width:640px) {
+.mkd-position-left-inner {width:200px;}
+.mkd-site-info{width:330px; float:right;padding-top:15px;
+}
+
+
+@media only screen and (max-width:1280px) {
+.mkd-position-left-inner {    width: 735px; font-size: 15px;}
+.mkd-site-info{width:360px; float:right;padding-top:15px;
+}
+}
+
+@media only screen and (min-width:1280px) {
+.mkd-position-left-inner {width:915px;}
+.mkd-site-info{width:522px; float:right;padding-top:15px;}
+}
