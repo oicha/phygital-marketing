@@ -656,7 +656,7 @@ background-position:100% 0
 	position: relative;
 	white-space: nowrap;
 	width: 1%;
-	padding-right: 16px
+	padding-right: 3px
 }
 .mkd-title-line-body {
 	display: table-cell;
@@ -8102,17 +8102,22 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 
 @media only screen and (min-width:640px) {
 .mkd-position-left-inner {width:200px;}
-.mkd-site-info{width:330px; float:right;padding-top:15px;
+.mkd-site-info{width:330px; float:right;
 }
 
 
 @media only screen and (max-width:1280px) {
-.mkd-position-left-inner {    width: 735px; font-size: 15px;}
-.mkd-site-info{width:360px; float:right;padding-top:15px;
-}
+.mkd-position-left-inner {    width: 99%; font-size: 15px;}
+.mkd-site-info{width:50%; float:right;}
 }
 
 @media only screen and (min-width:1280px) {
-.mkd-position-left-inner {width:915px;}
-.mkd-site-info{width:522px; float:right;padding-top:15px;}
+.mkd-position-left{width:77%;}
+.mkd-position-left-inner {width:99%;}
+.mkd-site-info{width:58%; float:right;padding-top:15px;}
+
+}
+
+.mkd-single-tags-title{
+	display:inline;	
 }
