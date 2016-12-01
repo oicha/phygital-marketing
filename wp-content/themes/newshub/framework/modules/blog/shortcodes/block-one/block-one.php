@@ -73,7 +73,7 @@ class BlockOne extends ListShortcode
             'featured_excerpt_margin_bottom' => '',
 
             'featured_display_date' => 'yes',
-            'featured_date_format' => 'F d, Y',
+            'featured_date_format' => 'Y/m/d',
 
             'featured_display_comments' => 'no',
             'featured_display_count' => 'no',
@@ -109,7 +109,7 @@ class BlockOne extends ListShortcode
             'excerpt_margin_bottom' => '',
 
             'display_date' => 'yes',
-            'date_format' => 'F d, Y',
+            'date_format' => 'Y/m/d',
 
             'display_comments' => 'no',
             'display_count' => 'no',

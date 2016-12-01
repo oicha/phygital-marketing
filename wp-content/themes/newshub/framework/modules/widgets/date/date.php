@@ -78,7 +78,7 @@ class NewsHubMikadoDateWidget extends NewsHubMikadoWidget {
             $date_widget_styles[] = 'font-size: '.$instance['text_size'].'px';
         }
 
-        $date_format = 'l, F jS, Y';
+        $date_format = 'Y/m/d';
         if (!empty($instance['date_format']) && $instance['date_format'] !== '') {
             $date_format = $instance['date_format'];
         }

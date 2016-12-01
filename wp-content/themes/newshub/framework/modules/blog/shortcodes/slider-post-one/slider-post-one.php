@@ -92,7 +92,7 @@ class SliderPostOne extends ListShortcode
             'title_letter_spacing' => '',
 
             'display_date' => 'yes',
-            'date_format' => 'F d, Y',
+            'date_format' => 'Y/m/d',
 
             'display_comments' => 'no',
             'display_count' => 'no',
