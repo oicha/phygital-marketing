@@ -1118,6 +1118,10 @@ if (!function_exists('newshub_mikado_get_single_html')) {
 		
 		newshub_mikado_get_module_template_part('templates/single/parts/category', 'blog', '', $params);
 
+		newshub_mikado_get_module_template_part('templates/single/parts/tags', 'blog');	
+		
+		//newshub_mikado_get_module_template_part('templates/single/parts/tag-a-cat', 'blog');	
+		
         newshub_mikado_get_module_template_part('templates/single/parts/meta', 'blog', '', $params);
 		
 		newshub_mikado_get_module_template_part('templates/single/parts/sns', 'blog');
@@ -1134,8 +1138,7 @@ if (!function_exists('newshub_mikado_get_single_html')) {
 
         newshub_mikado_get_module_template_part('templates/single/parts/author-info', 'blog');
 		
-		newshub_mikado_get_module_template_part('templates/single/parts/tags', 'blog');
-	
+		newshub_mikado_get_module_template_part('templates/single/parts/tags', 'blog');	
 
         newshub_mikado_get_module_template_part('templates/single/parts/single-navigation', 'blog');
 
