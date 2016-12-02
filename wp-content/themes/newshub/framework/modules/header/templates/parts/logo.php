@@ -8,6 +8,6 @@
         <?php if(!empty($logo_image_transparent)){ ?><img class="mkd-transparent-logo" src="<?php echo esc_url($logo_image_transparent); ?>" alt="<?php esc_html_e('transparent logo','newshub'); ?>"/><?php } ?>
     </a>
 </div>
-<div class="mkd-site-info">フィジカル（物質の）とデジタルをかけ合わせた造語であるPhygital（フィジタル）。 このサイトではそのPhygitalにMarketingをさらに合わせ、オフラインとオンラインの世界を融合させた事例や体験を配信中</div>
+<div class="mkd-site-info">フィジカル×デジタルの造語、Phygital（フィジタル）にMarketingを合わせ、ネットとリアルの世界を融合させた情報を配信</div>
 
 <?php do_action('newshub_mikado_after_site_logo'); ?>
