@@ -8111,11 +8111,11 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 .mkd-main-menu{width:815px;}
 .mkd-position-left-inner {    width: 99%; font-size: 15px;}
 .mkd-site-info{width:50%; float:right;}
-.mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
+.mkd-post-text  p{ padding: 10px 0px; font-size: 17px;    line-height: 2.0;}
 }
 
 @media only screen and (min-width:1280px) {
-	.mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
+	.mkd-post-text  p{ padding: 10px 40px; font-size: 17px;    line-height: 2.0;}
 .mkd-main-menu{width:900px;}
 .mkd-position-left{width:77%;}
 .mkd-position-left-inner {width:99%;}
