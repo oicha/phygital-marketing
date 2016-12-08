@@ -8098,7 +8098,7 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 .sns{	margin-bottom:30px;}
 
 
-.mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
+
 
 @media only screen and (max-width:640px) {
 .mkd-position-left-inner {width:200px;}
@@ -8108,12 +8108,14 @@ footer .mkd-dark .widget.widget_tag_cloud a {
 
 @media only screen and (max-width:1280px) {
 .mkd-logo-wrapper a img {height: 90%;}
-.mkd-main-menu{width:800px;}
+.mkd-main-menu{width:815px;}
 .mkd-position-left-inner {    width: 99%; font-size: 15px;}
 .mkd-site-info{width:50%; float:right;}
+.mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
 }
 
 @media only screen and (min-width:1280px) {
+	.mkd-post-text  p{ padding: 10px 30px; font-size: 17px;    line-height: 2.0;}
 .mkd-main-menu{width:900px;}
 .mkd-position-left{width:77%;}
 .mkd-position-left-inner {width:99%;}
