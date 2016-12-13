@@ -1431,8 +1431,8 @@ if ( ! class_exists( 'TGM_Plugin_Activation' ) ) {
 		/**
 		 * Sanitizes a string key.
 		 *
-		 * Near duplicate of WP Core `sanitize_key()`. The difference is that uppercase characters *are*
-		 * allowed, so as not to break upgrade paths from non-standard bundled plugins using uppercase
+		 * Near duplicate of WP Core `sanitize_key()`. The difference is that none characters *are*
+		 * allowed, so as not to break upgrade paths from non-standard bundled plugins using none
 		 * characters in the plugin directory path/slug. Silly them.
 		 *
 		 * @see https://developer.wordpress.org/reference/hooks/sanitize_key/

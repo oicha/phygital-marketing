@@ -15,7 +15,7 @@ $newshub_options_fontweight = array( "100" => "100",
 );
 $newshub_options_texttransform = array( "none" => "None",
  "capitalize" => "Capitalize",
- "uppercase" => "Uppercase",
+ "none" => "none",
  "lowercase" => "Lowercase"
 );
 

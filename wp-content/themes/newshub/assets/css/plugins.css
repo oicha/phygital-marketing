@@ -787,7 +787,7 @@ body div.pp_default .pp_close:after {
   font-size: 13px;
   font-weight: 600;
   vertical-align: top;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .mkd-apsc-custom-style-enabled .widget_apsc_widget .apsc-icons-wrapper .apsc-each-profile a .apsc-inner-block .apsc-count,

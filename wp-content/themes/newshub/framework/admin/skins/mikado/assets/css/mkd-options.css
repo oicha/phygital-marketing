@@ -206,12 +206,12 @@
     border-bottom:4px solid #dae0e8;;
     font-weight: 600;
     font-size: 14px;
-    text-transform:uppercase;
+    text-transform:none;
     line-height: 1
 }
 .mkd-options-page .mkd-page-content-wrapper .mkd-page-section-subtitle {
     color:#34383C;
-    text-transform: uppercase;
+    text-transform: none;
     display: inline-block;
     margin:30px 0 15px;
     font-size: 13px;

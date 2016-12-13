@@ -28,7 +28,7 @@ h3 { font-size: 25px;line-height: 37px;}
 
 h4 { font-size: 20px;line-height: 31px;}
 
-h5 { font-size: 24px;line-height: 25px;text-transform: uppercase;font-weight: 700;letter-spacing: 1px;}
+h5 { font-size: 24px;line-height: 25px;text-transform: none;font-weight: 700;letter-spacing: 1px;}
 
 h6 { font-size: 15px;line-height: 23px;text-transform: capitalize;font-style: normal;font-weight: 500;}
 
@@ -46,27 +46,27 @@ aside.mkd-sidebar { text-align: left;}
 
 #bbpress-forums div.bbp-breadcrumb .bbp-breadcrumb-current, #bbpress-forums div.bbp-breadcrumb .bbp-breadcrumb-home:hover, #bbpress-forums .bbp-body>ul>li a:hover, #bbpress-forums .forum-titles>li a:hover, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-freshness>a:hover, #bbpress-forums li.bbp-body ul.forum li.bbp-topic-freshness>a:hover, #bbpress-forums li.bbp-body ul.topic li.bbp-forum-freshness>a:hover, #bbpress-forums li.bbp-body ul.topic li.bbp-topic-freshness>a:hover, #bbpress-forums .bbp-topic-started-by .bbp-author-name, #bbpress-forums .bbp-replies .bbp-body div.bbp-reply-author .bbp-author-name, #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a, #bbpress-forums #bbp-single-user-details #bbp-user-navigation li a:hover, #bbpress-forums .bbp-topics ul.sticky:after, .mkd-sidebar .widget.widget_display_replies ul li, .mkd-sidebar .widget.widget_display_topics ul li, .mkd-sidebar .widget_display_forums li a:after, .mkd-sidebar .widget_display_views li a:after, .mkd-sidebar .widget_display_forums li a:hover, .mkd-sidebar .widget_display_views li a:hover { background-color: #d7aa70;}
 
-.single-post .mkd-post-info > div { text-transform: uppercase;font-weight: 500;}
+.single-post .mkd-post-info > div { text-transform: none;font-weight: 500;}
 
-.single-post .mkd-post-info-category-holder > div { text-transform: uppercase;font-weight: 500;}
+.single-post .mkd-post-info-category-holder > div { text-transform: none;font-weight: 500;}
 
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner .mkd-pt-meta-section > div,
             .mkd-blog-holder.mkd-blog-type-standard article .mkd-post-item-inner .mkd-pt-meta-section > div, 
             .mkd-blog-holder.mkd-blog-type-first-post-full-content article .mkd-post-item-inner .mkd-pt-meta-section > div,
-            .mkd-blog-holder.mkd-blog-type-masonry article .mkd-post-item-inner .mkd-pt-meta-section > div { font-family: Raleway;font-size: 12px;line-height: 26px;text-transform: uppercase;font-weight: 500;}
+            .mkd-blog-holder.mkd-blog-type-masonry article .mkd-post-item-inner .mkd-pt-meta-section > div { font-family: Raleway;font-size: 12px;line-height: 26px;text-transform: none;font-weight: 500;}
 
 aside.mkd-sidebar .widget.widget_categories ul li a,
             .wpb_widgetised_column .widget.widget_categories ul li a,
             footer .widget.widget_categories ul li a,
-            .mkd-side-menu .widget.widget_categories ul li a { font-family: Raleway;font-size: 15px;line-height: 18px;text-transform: uppercase;font-weight: 500;}
+            .mkd-side-menu .widget.widget_categories ul li a { font-family: Raleway;font-size: 15px;line-height: 18px;text-transform: none;font-weight: 500;}
 
 .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner,
             .mkd-bnl-holder .mkd-bnl-outer .mkd-bnl-inner .mkd-post-item .mkd-post-item-inner ,
             .mkd-blog-holder.mkd-blog-type-standard article .mkd-post-item-inner .mkd-post-info-category, 
             .mkd-blog-holder.mkd-blog-type-first-post-full-content article .mkd-post-item-inner ,
-            .mkd-blog-holder.mkd-blog-type-masonry article .mkd-post-item-inner  { font-family: Raleway;font-size: 12px;line-height: 18px;text-transform: uppercase;font-weight: 500;padding-top: 6px;padding-bottom: 0px;}
+            .mkd-blog-holder.mkd-blog-type-masonry article .mkd-post-item-inner  { font-family: Raleway;font-size: 12px;line-height: 18px;text-transform: none;font-weight: 500;padding-top: 6px;padding-bottom: 0px;}
 
-.comment-respond .comment-reply-title { font-size: 18px;line-height: 25px;text-transform: uppercase;font-weight: 700;letter-spacing: 1px;}
+.comment-respond .comment-reply-title { font-size: 18px;line-height: 25px;text-transform: none;font-weight: 700;letter-spacing: 1px;}
 
 .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-size: 12px;height: 49px;font-weight: 500;letter-spacing: 1px;border-width: 1px;border-radius: 0px;padding-left: 22px;padding-right: 22px;}
 

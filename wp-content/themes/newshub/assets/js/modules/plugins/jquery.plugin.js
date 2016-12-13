@@ -311,7 +311,7 @@
 		@return {string} The camel-case version. */
 	function camelCase(name) {
 		return name.replace(/-([a-z])/g, function(match, group) {
-			return group.toUpperCase();
+			return group.tonone();
 		});
 	}
 	

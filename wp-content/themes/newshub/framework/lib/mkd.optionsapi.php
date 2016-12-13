@@ -555,7 +555,7 @@ if(!function_exists('newshub_mikado_get_text_transform_array')) {
 
         $text_transforms['none'] = esc_html('None', 'newshub');
         $text_transforms['capitalize'] = esc_html('Capitalize','newshub');
-        $text_transforms['uppercase'] = esc_html('Uppercase','newshub');
+        $text_transforms['none'] = esc_html('none','newshub');
         $text_transforms['lowercase'] = esc_html('Lowercase','newshub');
 
         return $text_transforms;

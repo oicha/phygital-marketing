@@ -138,7 +138,7 @@ class NewsHubMikadoPostLayoutThree extends NewsHubMikadoWidget
                     '' => esc_html__('Default','newshub'),
                     'none' => esc_html__('None','newshub'),
                     'capitalize' => esc_html__('Capitalize','newshub'),
-                    'uppercase' => esc_html__('Uppercase','newshub'),
+                    'none' => esc_html__('none','newshub'),
                     'lowercase' => esc_html__('Lowercase','newshub'),
                 )
             ),

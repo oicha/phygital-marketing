@@ -743,7 +743,7 @@ if (!function_exists('newshub_mikado_get_feature_title_shortcode_params')) {
                 esc_html__('Default', 'newshub') => '',
                 esc_html__('None', 'newshub') => 'none',
                 esc_html__('Capitalize', 'newshub') => 'capitalize',
-                esc_html__('Uppercase', 'newshub') => 'uppercase',
+                esc_html__('none', 'newshub') => 'none',
                 esc_html__('Lowercase', 'newshub') => 'lowercase',
             ),
             'group' => esc_html__('Featured Item Title','newshub')
@@ -1160,7 +1160,7 @@ if (!function_exists('newshub_mikado_get_non_feature_title_shortcode_params')) {
                 esc_html__('Default', 'newshub') => '',
                 esc_html__('None', 'newshub') => 'none',
                 esc_html__('Capitalize', 'newshub') => 'capitalize',
-                esc_html__('Uppercase', 'newshub') => 'uppercase',
+                esc_html__('none', 'newshub') => 'none',
                 esc_html__('Lowercase', 'newshub') => 'lowercase',
             ),
             'group' => esc_html__('Post Item Title','newshub')

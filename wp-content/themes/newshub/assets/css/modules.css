@@ -1339,7 +1339,7 @@ blockquote cite {
   font-size: 10px;
   line-height: 1.4em;
   font-style: normal;
-  text-transform: uppercase;
+  text-transform: none;
   margin: 2px 0 0;
 }
 
@@ -1671,7 +1671,7 @@ input.wpcf7-form-control.wpcf7-submit {
   outline: 0;
   line-height: 2.8em;
   vertical-align: middle;
-  text-transform: uppercase;
+  text-transform: none;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -2529,7 +2529,7 @@ li.mkd-menu-narrow .mkd-menu-second .mkd-menu-inner ul {
   font-size: 14px;
   line-height: 16px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: none;
   border-bottom: 0;
   padding: 0;
   margin: 0 0 23px;
@@ -3790,7 +3790,7 @@ footer .widget .wp-caption-text {
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 footer .widget #wp-calendar {
@@ -3843,7 +3843,7 @@ footer .widget.widget_rss li .rss-date {
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 footer .widget.widget_rss li .rssSummary {
@@ -3927,7 +3927,7 @@ footer .widget.widget_search input[type='submit'] {
   border: 1px solid #989898;
   border-left: none;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
   font-family: 'ElegantIcons';
   -webkit-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
   -moz-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
@@ -4129,7 +4129,7 @@ footer .widget.widget_tag_cloud a {
   color: #989898;
   font-size: 10px !important;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   border: 1px solid #dedede;
 }
@@ -4185,7 +4185,7 @@ footer .widget.mkd-rc-holder .mkd-rc-date {
   font-size: 12px;
   line-height: 12px;
   margin-top: 5px;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.2px;
   color: #7a7979;
 }
@@ -4850,7 +4850,7 @@ body.search .mkd-search-page-holder .mkd-pt-two-item .mkd-post-item-inner .mkd-p
   line-height: 1em;
   margin: 0 15px 0 0;
   position: relative;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 body.search .mkd-search-page-holder .mkd-pt-two-item .mkd-post-item-inner .mkd-pt-content-holder .mkd-post-info-category a,
@@ -5183,7 +5183,7 @@ aside.mkd-sidebar .widget .wp-caption-text,
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 aside.mkd-sidebar .widget #wp-calendar,
@@ -5249,7 +5249,7 @@ aside.mkd-sidebar .widget.widget_rss li .rss-date,
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 aside.mkd-sidebar .widget.widget_rss li .rssSummary,
@@ -5346,7 +5346,7 @@ aside.mkd-sidebar .widget.widget_search input[type='submit'],
   border: 1px solid #212121;
   border-left: none;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
   font-family: 'ElegantIcons';
   -webkit-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
   -moz-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
@@ -5566,7 +5566,7 @@ aside.mkd-sidebar .widget.widget_recent_entries ul li a:hover,
 
 aside.mkd-sidebar .widget.widget_recent_entries .post-date,
 .wpb_widgetised_column .widget.widget_recent_entries .post-date {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 11px;
 }
 
@@ -5589,7 +5589,7 @@ aside.mkd-sidebar .widget.widget_tag_cloud a,
   color: #212121;
   font-size: 10px !important;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   border: 1px solid #dedede;
 }
@@ -5651,7 +5651,7 @@ aside.mkd-sidebar .widget.mkd-rc-holder .mkd-rc-date,
   font-size: 12px;
   line-height: 12px;
   margin-top: 5px;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.2px;
   color: #7a7979;
 }
@@ -5735,7 +5735,7 @@ aside.mkd-sidebar .widget.mkd-light .mkd-pt-meta-section > div a:before,
   font-size: 12px;
   line-height: 38px;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  text-transform: none;
   padding: 0 17px;
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
   -moz-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
@@ -6347,7 +6347,7 @@ body.single-post .mkd-social-share-holder.mkd-list li span {
   position: relative;
   display: inline-block;
   vertical-align: middle;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 body.single-post .mkd-social-share-holder.mkd-list li span:not(.mkd-social-network-icon) {
@@ -10056,7 +10056,7 @@ ul.mkd-instagram-feed li a img {
   font-size: 12px;
   line-height: 17px;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
   border-top: 1px solid rgba(141, 141, 141, 0.4);
 }
 
@@ -10223,7 +10223,7 @@ aside.mkd-sidebar .widget_mkd_twitter_widget,
   letter-spacing: 1px;
   line-height: 12px;
   margin-top: 14px;
-  text-transform: uppercase;
+  text-transform: none;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -11015,7 +11015,7 @@ header .mkd-plw-three .mkd-plw-three {
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .mkd-side-menu .widget #wp-calendar {
@@ -11063,7 +11063,7 @@ header .mkd-plw-three .mkd-plw-three {
   color: #7a7979;
   display: block;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .mkd-side-menu .widget.widget_rss li .rssSummary {
@@ -11147,7 +11147,7 @@ header .mkd-plw-three .mkd-plw-three {
   border: 1px solid #373737;
   border-left: none;
   font-size: 11px;
-  text-transform: uppercase;
+  text-transform: none;
   font-family: 'ElegantIcons';
   -webkit-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
   -moz-transition: background-color cubic-bezier(0.25, 0.1, 0.11, 0.99) 0.25s;
@@ -11297,7 +11297,7 @@ header .mkd-plw-three .mkd-plw-three {
 }
 
 .mkd-side-menu .widget.widget_recent_entries .post-date {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 12px;
   letter-spacing: 1.2px;
 }
@@ -11318,7 +11318,7 @@ header .mkd-plw-three .mkd-plw-three {
   color: #ffffff;
   font-size: 10px !important;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   border: 1px solid #373737;
 }
@@ -11370,7 +11370,7 @@ header .mkd-plw-three .mkd-plw-three {
   font-size: 12px;
   line-height: 12px;
   margin-top: 5px;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.2px;
   color: #7a7979;
 }

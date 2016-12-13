@@ -1459,7 +1459,7 @@ html[xmlns] .mkd-blog-holder.mkd-blog-type-standard article .mkd-pg-slider, html
   color: #7e7c7c;
   font-size: 11px;
   font-weight: 400;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.5px;
   line-height: 1em;
 }
