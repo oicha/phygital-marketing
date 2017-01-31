@@ -131,7 +131,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 a, p a {
 	color: #212121;
-	text-decoration: none;
+	text-decoration: underline;
 	cursor: pointer;
 	-webkit-transition: color .25s cubic-bezier(.25, .1, .11, .99);
 	-moz-transition: color .25s cubic-bezier(.25, .1, .11, .99);
@@ -1251,7 +1251,7 @@ input.wpcf7-form-control.wpcf7-submit {
 	margin: 0;
 	padding: 0;
 	vertical-align: middle;
-	text-decoration: none;
+	text-decoration: underline;
 	cursor: pointer;
 	white-space: nowrap;
 	font-size: 16px;
