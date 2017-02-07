@@ -4,7 +4,7 @@
 <ul>
 <!-- Twitter -->
 <li class="share-twitter">
-<a href="http://twitter.com/home?status=<?php echo urlencode(the_title_attribute('echo=0')); ?>%20<?php the_permalink(); ?> target="_blank">Twitter</a>
+<a href="http://twitter.com/home?status=<?php echo urlencode(the_title_attribute('echo=0')); ?>%20<?php the_permalink(); ?>" target="_blank">Twitter</a>
 </li>
 <!-- Facebook -->	
 <li class="share-facebook">
